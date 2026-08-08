@@ -86,18 +86,7 @@ Performance-driven **Software Engineer** specializing in building robust backend
 
 ### 📊 GitHub Activity Metrics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adwy-M&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" />
-      </td>
-      <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwy-M&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=333333" />
-      </td>
-    </tr>
-  </table>
-  
+<div align="center">  
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adwy-M&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" />
 </div>
 
