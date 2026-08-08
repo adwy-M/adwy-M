@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="assets/banners/1.jpg" alt="Adwy Mahmoud" width="100%" />
+<img src="assets/banners/1.png" alt="Adwy Mahmoud" width="100%" />
 
 <br/>
 
@@ -9,7 +9,7 @@
 **Software Developer | Backend & Full-Stack Engineer**
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoud-adwy">
+  <a href="https://www.linkedin.com/in/adwymahmoud">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahmoudadwy75@gmail.com">
