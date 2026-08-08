@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="assets/banners/banner.png" alt="Adwy Mahmoud - Software Developer" width="100%" />
+<img src="assets/banners/1.jpg" alt="Adwy Mahmoud - Software Developer" width="100%" />
 
 <br/>
 
