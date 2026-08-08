@@ -6,9 +6,16 @@
 <br/>
 
 <!-- Name Section - Optimized to remove automatic underlines -->
+<h1 align="center">
+  ADWY MAHMOUD
+</h1>
+
 <p align="center">
-  <kbd><b><font size="20">ADWY MAHMOUD</font></b></kbd><br/>
-  <b>Software Developer | Backend & Full-Stack Engineer</b>
+  <b>Software Developer • Backend & Full-Stack Engineer</b>
+</p>
+
+<p align="center">
+  Crafting efficient systems with clean code and modern technologies.
 </p>
 
 <p align="center">
