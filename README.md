@@ -6,8 +6,8 @@
 <br/>
 
 # Adwy Mahmoud
-
-Software Developer | Backend & Full-Stack Engineer**
+</br>
+**Software Developer | Backend & Full-Stack Engineer**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adwymahmoud">
