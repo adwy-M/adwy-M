@@ -1,78 +1,98 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="assets/banners/1.jpg" alt="Adwy Mahmoud - Software Developer" width="100%" />
+<img src="assets/banners/banner.png" alt="Adwy Mahmoud" width="100%" />
 
 <br/>
 
 # Adwy Mahmoud
-### Software Developer | Backend & Full Stack Engineer
-**Suez, Egypt**
+**Software Developer | Backend & Full-Stack Engineer**
 
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-adwy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahmoudadwy75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="assets/Adwy_Mahmoud_Software_Developer.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-000000?style=flat&logo=adobe-acrobat-reader&logoColor=white" />
+    <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Scalable+Backend+Architecture;Intelligent+AI+Agents;Workflow+Automation+Specialist" alt="Typing SVG" />
+
 </div>
 
-### 📑 Professional Profile
-A dedicated **Backend & Full Stack Engineer** with a proven track record in architecting production-ready web and mobile applications. Specializing in **PHP (Laravel)**, **Node.js**, and **Python**, with a deep focus on **Agentic AI workflows** and **system automation**. I prioritize clean code, relational database integrity, and scalable system design.
+### 📑 Executive Summary
+Performance-driven **Software Engineer** specializing in building robust backend architectures and intelligent systems. Expertise in **Laravel, Node.js, and Python**, with a focused approach toward **AI integration (DSPy/LangGraph)** and **SaaS automation**. Committed to engineering excellence, clean code, and scalable system design.
 
 ---
 
-### 🛠 Technical Landscape
+### ⚙️ Technical Proficiencies
 
-#### 🔹 Backend & Core Engineering
-*   **Languages:** PHP (Laravel), Python, Node.js (Express), JavaScript, Dart, SQL.
-*   **Architecture:** RESTful APIs, Microservices, MVC, RBAC, System Integration.
-*   **Databases:** MySQL, PostgreSQL, MongoDB, Prisma ORM, Schema Design & Optimization.
-
-#### 🔹 AI & Automation Specialist
-*   **AI Frameworks:** DSPy (Structured AI Optimization), LangGraph (Agentic Workflows).
-*   **LLMs:** Ollama (Phi-3.5), Retrieval-Augmented Generation (RAG).
-*   **Automation:** N8N, GoHighLevel CRM, Webhooks, Third-party API Orchestration.
-
-#### 🔹 Frontend & Mobile
-*   **Web:** React.js, Next.js, Tailwind CSS, TypeScript.
-*   **Mobile:** Flutter & Dart (Cross-platform Development), Firebase Integration.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Core Backend & AI</h4>
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,express,mysql,postgres,mongodb,sqlite" /><br/>
+      <sub>*Specialized in RAG, Agentic AI, and Relational Schema Design.*</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend & Mobile</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter,dart,firebase" /><br/>
+      <sub>*Focusing on Responsive UI, State Management, and Cross-platform UX.*</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Tools & Automation</h4>
+      <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,vercel" /><br/>
+      <sub>*Workflow Automation via N8N and Custom API Integration.*</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ Engineering Principles</h4>
+      <ul>
+        <li>Test-Driven Development (TDD)</li>
+        <li>RESTful API Design & RBAC</li>
+        <li>Agile / Scrum Methodology</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Key Projects & Impact
+### 📂 Strategic Projects
 
-*   **AI DSPY Agent:** Developed a local, privacy-focused retail analytics agent using LangGraph and DSPy to bridge RAG and SQL databases.
-*   **WACRM:** Architected a self-hostable WhatsApp CRM with real-time dashboards and no-code automation builders.
-*   **Integrated POS & Restaurant Ecosystem:** Engineered a full-stack POS system for branch management, ensuring data integrity across inventory and sales.
-*   **Mawaqeet Ecosystem:** Built a high-performance cross-platform mobile app with real-time social features and E-wallet integration.
-
----
-
-### 💼 Professional Experience Summary
-*   **Freelance Software Developer:** Delivering end-to-end software solutions for global clients (Mostaql & Nafezly).
-*   **Software Developer Intern (Aray International):** Contributed to core business modules and API performance optimization.
-*   **Automation Specialist (Prof Health):** Engineered complex CRM workflows and lead management automation.
-*   **Software Engineer (PeakBurger):** Designed and deployed a full-scale Restaurant Management & POS system.
+| Project | Key Tech | Impact / Deliverable |
+| :--- | :--- | :--- |
+| **AI DSPY Agent** | `Python`, `DSPy`, `LangGraph` | Local AI agent for retail analytics using RAG + SQL. |
+| **WACRM** | `Next.js`, `Supabase`, `WhatsApp API` | Enterprise-grade CRM with automated sales pipelines. |
+| **Restaurant POS** | `Laravel`, `MySQL`, `React` | Full-stack management system with real-time analytics. |
+| **Mawaqeet App** | `Flutter`, `Firebase`, `REST` | Cross-platform ecosystem with e-wallet and social features. |
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Activity Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwy-M&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333&icon_color=0A66C2" alt="Adwy's GitHub Stats" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adwy-M&show_icons=true&theme=omni&hide_border=true&title_color=0077B5" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwy-M&layout=compact&theme=omni&hide_border=true&title_color=0077B5" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Committed to building software that is not only functional but maintainable and scalable."</i></p>
-  <sub>© 2024 Adwy Mahmoud | Last Updated: August 2026</sub>
+  <sub>"Engineering is the art of organizing and design." — Built by Adwy Mahmoud.</sub>
 </div>
