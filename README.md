@@ -7,7 +7,7 @@
 
 <!-- Name Section - Optimized to remove automatic underlines -->
 <p align="center">
-  <kbd><b><font size="6">ADWY MAHMOUD</font></b></kbd><br/>
+  <kbd><b><font size="20">ADWY MAHMOUD</font></b></kbd><br/>
   <b>Software Developer | Backend & Full-Stack Engineer</b>
 </p>
 
