@@ -5,8 +5,11 @@
 
 <br/>
 
-## Adwy Mahmoud
-**Software Developer | Backend & Full-Stack Engineer**
+<!-- Name Section - Optimized to remove automatic underlines -->
+<p align="center">
+  <kbd><b><font size="6">ADWY MAHMOUD</font></b></kbd><br/>
+  <b>Software Developer | Backend & Full-Stack Engineer</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adwymahmoud">
@@ -19,8 +22,6 @@
     <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
-
----
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Scalable+Backend+Architecture;Intelligent+AI+Agents;Workflow+Automation+Specialist" alt="Typing SVG" />
 
@@ -81,14 +82,16 @@ Performance-driven **Software Engineer** specializing in building robust backend
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adwy-M&show_icons=true&theme=omni&hide_border=true&title_color=0077B5" />
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adwy-M&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwy-M&layout=compact&theme=omni&hide_border=true&title_color=0077B5" />
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwy-M&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=333333" />
       </td>
     </tr>
   </table>
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adwy-M&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" />
 </div>
 
 ---
